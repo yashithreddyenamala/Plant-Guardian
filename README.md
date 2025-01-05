@@ -6,6 +6,11 @@ This project involves the development of a mobile application, "Smart Plant Care
 
 ---
 
+## Website Report
+https://plantguardian.framer.website/
+
+---
+
 ## Table of Contents
 1. Introduction
 2. Objectives
